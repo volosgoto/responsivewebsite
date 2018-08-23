@@ -50,3 +50,7 @@ body {
 .section .fa{
     font-size: 40px; 
 }
+
+.section img{
+    width: 50%;
+}
