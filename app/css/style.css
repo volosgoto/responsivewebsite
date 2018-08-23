@@ -1,7 +1,8 @@
 body {
-    background-color: lightgrey;
-    font-family: 'Verdana, Tehoms, sans-serif';
+    /* font-family: 'Verdana, Tehoma, sans-serif'; */
+    font-family: 'Segoe UI', Verdana, Tahoma, Geneva, sans-serif;
     font-size: 16px;
+
 }
 
 .branding{
@@ -10,19 +11,22 @@ body {
 
 .showcase{
     background: url('../img/Часть\ схемы\ 3.png') no-repeat;
+    background-color: lightgray;
     background-size: auto 600px;
     background-position: center center;
     height: 600px;
     padding: 140px 100px;
-    color: black;
 }
 
-.showcase h1{
-    font-size: 20px;
-    font-weight: 700;
-    text-align: center;
-    text-transform: uppercase;
+.showcase p{
+    font-size: 16px;
 }
+
+.showcase p{
+    color: black;
+    padding-bottom: 20px; 
+}
+
 
 .showcase hr {
     margin: auto;
