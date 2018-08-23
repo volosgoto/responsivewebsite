@@ -1,3 +1,18 @@
 body {
     background-color: lightgrey;
+    font-family: 'Verdana, Tehoms, sans-serif';
+    font-size: 16px;
+}
+
+.branding{
+    font-size: 17px;
+}
+
+.showcase{
+    background: url('../img/Часть\ схемы\ 3.png') no-repeat;
+    background-size: auto 600px;
+    background-position: center center;
+    height: 600px;
+    padding: 140px 100px;
+    color: black;
 }
