@@ -27,7 +27,6 @@ body {
     padding-bottom: 20px; 
 }
 
-
 .showcase hr {
     margin: auto;
     width: 50%;
@@ -35,4 +34,19 @@ body {
     border-width: 2px;
     border-color: black;
     padding: 0;
+}
+
+.section{
+    padding: 40px; 
+}
+
+
+.section h2{
+    margin: 0; 
+    padding: 0; 
+}
+
+
+.section .fa{
+    font-size: 40px; 
 }
