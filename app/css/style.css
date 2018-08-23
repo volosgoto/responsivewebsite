@@ -16,3 +16,19 @@ body {
     padding: 140px 100px;
     color: black;
 }
+
+.showcase h1{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.showcase hr {
+    margin: auto;
+    width: 50%;
+    height: 1px;
+    border-width: 2px;
+    border-color: black;
+    padding: 0;
+}
